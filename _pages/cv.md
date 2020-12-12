@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Alisher Abdulkhaev"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf)
 
 <!---
