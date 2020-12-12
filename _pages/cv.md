@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/alisher-ai/alisher-ai.github.io/blob/master/files/CV_Alisher_Abdulkhaev.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf)
 
-
+<!---
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -34,8 +34,6 @@ Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
@@ -50,12 +48,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
