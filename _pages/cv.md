@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/alisher-ai/alisher-ai.github.io/blob/master/files/CV_Alisher_Abdulkhaev.pdf)
+
 
 Education
 ======
