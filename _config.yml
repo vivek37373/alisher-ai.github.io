@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alisher Abdulkhaev Webpage"
 title_separator          : "-"
 name                     : &name "Alisher Abdulkhaev"
-description              : &description "Computer Vision Engineer @ Browzzin \n Board Director @ Machine Learning Tokyo \n Ph.D. student @ University of Tsukuba (supervisor: Prof. Fukui)"
+description              : &description "ML Engineer @ Browzzin__ Board Director @ MLT__ Ph.D. student @ University of Tsukuba (supervisor: Prof. Fukui)"
 url                      : https://alisher-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alisher-ai/alisher-ai.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alisher Abdulkhaev"
   avatar           : "profile.png"
-  bio              : "Computer Vision Engineer @ Browzzin \n Board Director @ Machine Learning Tokyo \n Ph.D. student @ University of Tsukuba (supervisor: Prof. Fukui)"
+  bio              : "ML Engineer @ Browzzin__ Board Director @ MLT__ Ph.D. student @ University of Tsukuba (supervisor: Prof. Fukui)"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
