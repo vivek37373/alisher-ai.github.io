@@ -1,5 +1,5 @@
 ---
-layout: archive
+<!-- layout: archive -->
 title: "Alisher Abdulkhaev"
 permalink: /cv/
 author_profile: true
