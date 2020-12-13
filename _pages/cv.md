@@ -38,8 +38,8 @@ Work experience
 | 2019 -      | Teaching Fellow                 | Tokyo Data Science School         | Michal Fabinger | giving lectures                        |
 | 2018 -      | Computer Vision Engineer        | Browzzin, AI team                 | Ozgur Yilmaz    | training and deploying DL models       |
 | 2018 - 2020 | Core Team Member                | Machine Learning Tokyo, core team | Suzana Ilic     | organizing ML workshops                |
-| 2017 - 2018 | Machine Learning Engineer       | PKSHA Technology, CV team         | Yotaro Watanabe | training face recognition DL models    |
-| 2016 - 2017 | Intern                          | Rakuten, RIT (R&D)                | Bjorn Stenger   | training Dl models for image retrieval |
+| 2017 - 2018 | Machine Learning Engineer       | PKSHA Technology, CV team         | Yotaro Watanabe | training face recognition models    |
+| 2016 - 2017 | Intern                          | Rakuten, RIT (R&D)                | Bjorn Stenger   | training image retrieval models |
 
 
 
