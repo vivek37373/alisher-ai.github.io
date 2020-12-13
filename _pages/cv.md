@@ -39,18 +39,13 @@ Work experience
   * Duties included: planning, organizing and giving talks at machine learning workshops
   
 * 2017 - 2018: Machine Learning Engineer @ PKSHA Technology
-  * Team: Computer Vision team
-  * Team leader: Yotaro Watanabe
+  * Computer Vision team (team leader: Yotaro Watanabe)
   * Duties included: researching and implementing the state-of-the-art face recognition models
-  * Supervisor: Tetsuo Shima
   
   
 * 2016 - 2017: Intern @ Rakuten Institute of Technology (RIT), Rakuten
-  * Team: Computer Vision team
-  * Team leader: Bjorn Stenger
+  * Computer Vision team (team leader: Bjorn Stenger, supervisors: Ali Cevahir & Jiu Xu)
   * Duties included: training deep networks for image retrieval
-  * Supervisor: Ali Cevahir, Jiu Xu
-
 
   
 
@@ -58,12 +53,32 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software
+  * Docker
+  * LATEX
+  * mongodb
+  * Python
+  * MATLAB
+  
+* Machine Learning / Deep Learning
+  * OpenCV
+  * scikit-learn
+  * PyTorch
+  * Keras
+  * TensorFlow
+  * object detection
+  * image retrieval
+  * metric learning
+  * semi-supervised learning
+  * self-supervised learning
+  * facial recognition (face detection, face matching, landmark detection)
+* Languages
+  * Uzbek: native speaker
+  * Kyrgyz: native speaker
+  * Turkish: native speaker
+  * English: advanced
+  * Russion: intermediate
+  * Japanese: beginner
 
 Publications
 ======
@@ -71,18 +86,39 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Certificates
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Machine Learning by Stanford University on Coursera (grade: 93.0%)
+* Natural Language Processing with Classification and Vector Spaces on Coursera (grade: 98%)
+
+
+Awards
+======
+* 2020: Gold medal (3rd place) in EdgeAI competition organized by METI and NEDO, _Tokyo, Japan_
+  * METI: Japanese Ministry of Economy, Trade and Industry
+  * NEDO: New Energy and Industrial Technology Development Organization
+
+* 2015: TUBITAK Scholarship, _Ankara, Turkey_
+  * TUBITAK: The Scientific and Technological Research Council of Turkey
   
+* 2008: The most successful student in a high school, _Osh, Kyrgyzstan_
+
+* 2008: Received the 4th place in Republican Computer Programming Olympiads and qualified for World Computer Olympiads, _Bishkek, Kyrgyzstan_
+
+* 2006: Received the 4th Place in Republican Computer Programming Olympiads, _Bishkek, Kyrgyzstan_
+  
+* 2005: Received the 1st Place in Provincial Computer Programming Olimpiads, _Osh, Kyrgyzstan_
+
+* 2003 - 2008: Full Tuition Scholarship, International High School, _Osh, Kyrgyzstan_
+
+* 2002: Received the 1st Place in Provincial Chess Competition, __Osh, Kyrgyzstan__
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
