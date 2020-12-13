@@ -13,4 +13,4 @@ redirect_from:
 
 <!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
 
-<embed src="https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf" type="application/pdf" width="1000px" height="2000px" />
