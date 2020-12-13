@@ -15,12 +15,12 @@ name                     : &name "Alisher Abdulkhaev"
 
 
 description              : &description 
-                              >+ 
-                                ML Engineer @ Browzzin
+                              | 
+                               * ML Engineer @ Browzzin
                                 
-                                Board Director @ MLT
+                               * Board Director @ MLT
                                 
-                                Doctoral candidate @ University of Tsukuba
+                               * Doctoral candidate @ University of Tsukuba
                                 
 url                      : https://alisher-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -94,12 +94,12 @@ author:
   name             : "Alisher Abdulkhaev"
   avatar           : "profile.png"
   bio              :  
-                    >+ 
-                    ML Engineer @ Browzzin
+                    | 
+                    * ML Engineer @ Browzzin
 
-                    Board Director @ MLT
+                    * Board Director @ MLT
 
-                    Doctoral candidate @ University of Tsukuba
+                    * Doctoral candidate @ University of Tsukuba
                     
   location         : "Tokyo, Japan"
   employer         :
