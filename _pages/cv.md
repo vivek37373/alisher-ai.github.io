@@ -84,6 +84,18 @@ Certificates
 
 Awards
 ======
+
+| Year(s)     | Award                                       | Organizer            | City & Country      |
+| ----------- | --------------------------------------------| -------------------- | ------------------- |
+| 2020        | Gold medal in EdgeAI competition            | METI & NEDO          | Tokyo, Japan        |
+| 2015        | TUBITAK Scholarship                         | TUBITAK              | Ankara, Turkey      |      
+| 2008        | The most successful student                 | Inter'l High School  | Osh, Kyrgyzstan     | 
+| 2008        | 4th place in Computer Programming Olympiads | Republican Olympiads | Bishkek, Kyrgyzstan |   
+| 2006        | 4th place in Computer Programming Olympiads | Republican Olympiads | Bishkek, Kyrgyzstan | 
+| 2005        | 1st Place in Computer Programming Olimpiads | Provincial Olympiads | Osh, Kyrgyzstan     |
+| 2003 - 2008 | Full Tuition Scholarship                    | Inter'l High School  | Bishkek, Kyrgyzstan |
+| 2002        | 1st Place in Chess Competition              | Provincial Olympiads | Osh, Kyrgyzstan     | 
+
 * 2020: Gold medal in EdgeAI competition organized by METI and NEDO, _Tokyo, Japan_
   * **METI: Japanese Ministry of Economy, Trade and Industry**
   * **NEDO: New Energy and Industrial Technology Development Organization**
