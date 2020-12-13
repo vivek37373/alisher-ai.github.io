@@ -31,40 +31,15 @@ Education
 Work experience
 ======
 
-| Year(s)     | Title                           | Company/Organization              | Leader          | Duties                                 |
-| ----------- | ------------------------------- | --------------------------        | --------------- | -----                                  |
-| 2020 -      | Visiting Scholar                | RIKEN, Decision Making Lab        | Rei Akaishi     | research                               |
-| 2020 -      | Board Director & Community Lead | Machine Learning Tokyo, board     | Suzana Ilic     | planning, leading the community        |
-| 2019 -      | Teaching Fellow                 | Tokyo Data Science School         | Michal Fabinger | giving lectures                        |
-| 2018 -      | Computer Vision Engineer        | Browzzin, AI team                 | Ozgur Yilmaz    | training and deploying DL models       |
-| 2018 - 2020 | Core Team Member                | Machine Learning Tokyo, core team | Suzana Ilic     | organizing ML workshops                |
-| 2017 - 2018 | Machine Learning Engineer       | PKSHA Technology, CV team         | Yotaro Watanabe | training face recognition models    |
-| 2016 - 2017 | Intern                          | Rakuten, RIT (R&D)                | Bjorn Stenger   | training image retrieval models |
-
-
-
-  
-* 2020 - : Board Director and Community Lead @ Machine Learning Tokyo
-  * Duties: planning the projects, talks, study sessions as well as the leading the community 
-
-* 2019 - : Teaching Fellow @ Tokyo Data Science School
-  * Duties: giving talks and holding machine learning hand-on sessions
-  
-* 2018 - : Computer Vision Engineer @ Browzzin
-  * AI team (team leader: Ozgur Yilmaz)
-  * Duties: researching and implementing the state-of-the-art face recognition models
-
-* 2018 - 2020: Core Team Member @ Machine Learning Tokyo
-  * Duties included: planning, organizing and giving talks at machine learning workshops
-  
-* 2017 - 2018: Machine Learning Engineer @ PKSHA Technology
-  * Computer Vision team (team leader: Yotaro Watanabe)
-  * Duties: researching and implementing the state-of-the-art face recognition models
-  
-  
-* 2016 - 2017: Intern @ Rakuten Institute of Technology (RIT), Rakuten
-  * Computer Vision team (team leader: Bjorn Stenger, supervisors: Ali Cevahir & Jiu Xu)
-  * Duties: training deep networks for image retrieval
+| Year(s)     | Title                           | Company/Organization              | Leader          | Duties                                     |
+| ----------- | ------------------------------- | --------------------------        | --------------- | -----                                      |
+| 2020 -      | Visiting Scholar                | RIKEN, Decision Making Lab        | Rei Akaishi     | research                                   |
+| 2020 -      | Board Director & Community Lead | Machine Learning Tokyo, board     | Suzana Ilic     | planning the events, leading the community |
+| 2019 -      | Teaching Fellow                 | Tokyo Data Science School         | Michal Fabinger | giving lectures                            |
+| 2018 -      | Computer Vision Engineer        | Browzzin, AI team                 | Ozgur Yilmaz    | training DL models, implement endpoints    |
+| 2018 - 2020 | Core Team Member                | Machine Learning Tokyo, core team | Suzana Ilic     | organizing and holding DL workshops        |
+| 2017 - 2018 | Machine Learning Engineer       | PKSHA Technology, CV team         | Yotaro Watanabe | training the SOTA face recognition models  |
+| 2016 - 2017 | Research Intern                 | Rakuten, RIT (R&D)                | Bjorn Stenger   | training deep networks for image retrieval |
 
 
 Skills
