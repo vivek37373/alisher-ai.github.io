@@ -14,21 +14,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, Gaziantep University, 2012
-* M.S. in Jekyll, Gaziantep University, 2014
-* Ph.D in Computer Science, The University of Tsukuba, 2023 (expected)
+* 2020 - 2023 (expected): Ph.D in Graduate School of System and Information Engineer, Department of Computer Science, The University of Tsukuba
+* 2012 - 2015: M.S. in Electrical and Electronics Engineering, Gaziantep University, 2015 (GPA: 3.64/4.00)
+* 2008 - 2012: B.S. in Electrical and Electronics Engineering, Gaziantep University, 2012 (GPA: 2.45/4.00)
+* 2003 - 2008: International High School, 2008 (GPA: 5.00/5.00)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - : Visiting Scholar @ Social Value Decision Making Lab, RIKEN
+  
+* 2020 - : Board Director and Community Lead @ Machine Learning Tokyo
+  * Duties included: planning the projects, talks, study sessions as well as the leading the community 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - : Teaching Fellow @ Tokyo Data Science School
+  * Duties included: giving talks and holding machine learning hand-on sessions
+  
+* 2018 - : Computer Vision Engineer @ Browzzin
+  * Team: AI (Artificial Intelligence) team
+  * Team leader: Ozgur Yilmaz
+  * Duties included: researching and implementing the state-of-the-art face recognition models
+
+* 2018 - 2020: Core Team Member @ Machine Learning Tokyo
+  * Duties included: planning, organizing and giving talks at machine learning workshops
+  
+* 2017 - 2018: Machine Learning Engineer @ PKSHA Technology
+  * Team: Computer Vision team
+  * Team leader: Yotaro Watanabe
+  * Duties included: researching and implementing the state-of-the-art face recognition models
+  * Supervisor: Tetsuo Shima
+  
+  
+* 2016 - 2017: Intern @ Rakuten Institute of Technology (RIT), Rakuten
+  * Team: Computer Vision team
+  * Team leader: Bjorn Stenger
+  * Duties included: training deep networks for image retrieval
+  * Supervisor: Ali Cevahir, Jiu Xu
+
+
+  
+
+  
   
 Skills
 ======
