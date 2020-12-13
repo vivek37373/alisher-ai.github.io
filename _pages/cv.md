@@ -34,27 +34,26 @@ Work experience
 * 2020 - : Visiting Scholar @ Social Value Decision Making Lab, RIKEN
   
 * 2020 - : Board Director and Community Lead @ Machine Learning Tokyo
-  * Duties included: planning the projects, talks, study sessions as well as the leading the community 
+  * Duties: planning the projects, talks, study sessions as well as the leading the community 
 
 * 2019 - : Teaching Fellow @ Tokyo Data Science School
-  * Duties included: giving talks and holding machine learning hand-on sessions
+  * Duties: giving talks and holding machine learning hand-on sessions
   
 * 2018 - : Computer Vision Engineer @ Browzzin
-  * Team: AI (Artificial Intelligence) team
-  * Team leader: Ozgur Yilmaz
-  * Duties included: researching and implementing the state-of-the-art face recognition models
+  * AI team (team leader: Ozgur Yilmaz)
+  * Duties: researching and implementing the state-of-the-art face recognition models
 
 * 2018 - 2020: Core Team Member @ Machine Learning Tokyo
   * Duties included: planning, organizing and giving talks at machine learning workshops
   
 * 2017 - 2018: Machine Learning Engineer @ PKSHA Technology
   * Computer Vision team (team leader: Yotaro Watanabe)
-  * Duties included: researching and implementing the state-of-the-art face recognition models
+  * Duties: researching and implementing the state-of-the-art face recognition models
   
   
 * 2016 - 2017: Intern @ Rakuten Institute of Technology (RIT), Rakuten
   * Computer Vision team (team leader: Bjorn Stenger, supervisors: Ali Cevahir & Jiu Xu)
-  * Duties included: training deep networks for image retrieval
+  * Duties: training deep networks for image retrieval
 
   
 
@@ -131,8 +130,8 @@ Certificates
 Awards
 ======
 * 2020: Gold medal in EdgeAI competition organized by METI and NEDO, _Tokyo, Japan_
-  * METI: Japanese Ministry of Economy, Trade and Industry
-  * NEDO: New Energy and Industrial Technology Development Organization
+  * **METI: Japanese Ministry of Economy, Trade and Industry**
+  * **NEDO: New Energy and Industrial Technology Development Organization**
 
 * 2015: TUBITAK Scholarship, _Ankara, Turkey_
   * **TUBITAK: The Scientific and Technological Research Council of Turkey**
