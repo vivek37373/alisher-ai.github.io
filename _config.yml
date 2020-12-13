@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Alisher Abdulkhaev"
 description              : &description > 
                                 Board Director @ MLT
-                                ML Engineer @ Browzzin
+                                ML & CV Engineer @ Browzzin
                                 Ph.D. student @ University of Tsukuba
 url                      : https://alisher-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   avatar           : "profile.png"
   bio              :  > 
                         Board Director @ MLT
-                        ML Engineer @ Browzzin
+                        ML & CV Engineer @ Browzzin
                         Ph.D. student @ University of Tsukuba
   location         : "Tokyo, Japan"
   employer         :
