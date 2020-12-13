@@ -81,26 +81,6 @@ Awards
   * **METI: Japanese Ministry of Economy, Trade and Industry**
   * **NEDO: New Energy and Industrial Technology Development Organization**
   * **TUBITAK: The Scientific and Technological Research Council of Turkey**
-  
-  
-* 2020: Gold medal in EdgeAI competition organized by METI and NEDO, _Tokyo, Japan_
-  * **METI: Japanese Ministry of Economy, Trade and Industry**
-  * **NEDO: New Energy and Industrial Technology Development Organization**
-
-* 2015: TUBITAK Scholarship, _Ankara, Turkey_
-  * **TUBITAK: The Scientific and Technological Research Council of Turkey**
-  
-* 2008: The most successful student in a high school, _Osh, Kyrgyzstan_
-
-* 2008: 4th place in Republican Computer Programming Olympiads and qualified for World Computer Olympiads, _Bishkek, Kyrgyzstan_
-
-* 2006: 4th Place in Republican Computer Programming Olympiads, _Bishkek, Kyrgyzstan_
-  
-* 2005: 1st Place in Provincial Computer Programming Olimpiads, _Osh, Kyrgyzstan_
-
-* 2003 - 2008: Full Tuition Scholarship, International High School, _Osh, Kyrgyzstan_
-
-* 2002: 1st Place in Provincial Chess Competition, _Osh, Kyrgyzstan_
 
 
 Projects
