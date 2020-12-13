@@ -11,7 +11,7 @@ title                    : "Alisher's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Alisher Abdulkhaev"
 description              : &description | 
-                                ML & CV Engineer @ Browzzin
+                                ML Engineer @ Browzzin
                                 Board Director @ MLTokyo
                                 Ph.D. student @ University of Tsukuba
 url                      : https://alisher-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -86,7 +86,7 @@ author:
   name             : "Alisher Abdulkhaev"
   avatar           : "profile.png"
   bio              :  | 
-                      ML & CV Engineer @ Browzzin
+                      ML Engineer @ Browzzin
                       Board Director @ MLTokyo
                       Ph.D. student @ University of Tsukuba
   location         : "Tokyo, Japan"
