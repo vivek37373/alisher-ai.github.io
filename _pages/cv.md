@@ -55,18 +55,21 @@ Work experience
   * Duties: training deep networks for image retrieval
 
   
- 
-<table border="0">
-<tr>
-<td><b style="font-size:30px">Software</b></td>
-<td><b style="font-size:30px">Machine Learning</b></td>
-</tr>
-<tr>
-<td>Docker<br\>* LATEX<br\>* mongodb<br\>* Python<br\>MATLAB</td>
-<td>OpenCV<br\>scikit-learn<br\>PyTorch<br\>Keras<br\>TensorFlow<br\>object detection<br\>metric learning<br\>semi-supervised learning<br\>facial recognition
-</tr>
-</table>
-    
+| Machine Learning         | Software | Languages |
+--
+| OpenCV                   | Docker   | Uzbek: native speaker   |
+| scikit-learn             | LATEX    | Kyrgyz: native speaker  |
+| PyTorch                  | mongodb  | Turkish: native speaker |
+| Keras                    | Python   | English: advanced       |
+| TensorFlow               | MATLAB   | Russian: intermediate   |
+| object detection         |          | Japanese: beginner      |
+| metric learning          |          |                         |
+| semi-supervised learning |          |                         |
+| facial recognition       |          |                         |
+
+
+
+
 Skills
 ======
 
