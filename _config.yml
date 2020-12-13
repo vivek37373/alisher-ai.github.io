@@ -7,6 +7,7 @@
 
 kramdown:
   hard_wrap: true
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Alisher's Personal Webpage"
@@ -18,10 +19,8 @@ name                     : &name "Alisher Abdulkhaev"
 
 description              : &description 
                               | 
-                                ML Engineer @ Browzzin
-                                
-                                Board Director @ MLT
-                                
+                                ML Engineer @ Browzzin \n
+                                Board Director @ MLT \n
                                 Doctoral candidate @ University of Tsukuba
                                 
 url                      : https://alisher-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -97,10 +96,8 @@ author:
   avatar           : "profile.png"
   bio              :  
                     | 
-                    ML Engineer @ Browzzin
-
-                    Board Director @ MLT
-
+                    ML Engineer @ Browzzin \n
+                    Board Director @ MLT \n
                     Ph.D. candidate @ University of Tsukuba
                     
   location         : "Tokyo, Japan"
