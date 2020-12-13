@@ -65,15 +65,9 @@ Skills
   <td><b style="font-size:30px">Machine Learning</b></td>
 </tr>
 <tr>
-  <td>
-    * Software
-    * Docker
-    * LATEX
-    * mongodb
-    * Python
-    * MATLAB</td>
-  <td>
-    * OpenCV
+  <td> * Docker<br\> * LATEX <br\> * mongodb <br\> * Python <br\> MATLAB</td>
+
+  <td> * OpenCV
     * scikit-learn
     * PyTorch
     * Keras
