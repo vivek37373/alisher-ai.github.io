@@ -56,24 +56,6 @@ Skills
 | metric learning          |          |                         |
 | semi-supervised learning |          |                         |
 | facial recognition       |          |                         |
-
-
-
-
-
-
-  
-Talks and presentations
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
   
 Certificates
@@ -96,6 +78,11 @@ Awards
 | 2003 - 2008 | Full Tuition Scholarship                    | Inter'l High School  | Bishkek, Kyrgyzstan |
 | 2002        | 1st Place in Chess Competition              | Provincial Olympiads | Osh, Kyrgyzstan     | 
 
+  * **METI: Japanese Ministry of Economy, Trade and Industry**
+  * **NEDO: New Energy and Industrial Technology Development Organization**
+  * **TUBITAK: The Scientific and Technological Research Council of Turkey**
+  
+  
 * 2020: Gold medal in EdgeAI competition organized by METI and NEDO, _Tokyo, Japan_
   * **METI: Japanese Ministry of Economy, Trade and Industry**
   * **NEDO: New Energy and Industrial Technology Development Organization**
@@ -116,6 +103,20 @@ Awards
 * 2002: 1st Place in Provincial Chess Competition, _Osh, Kyrgyzstan_
 
 
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+  
+Talks and presentations
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
