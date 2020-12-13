@@ -15,7 +15,6 @@ Personal Data
 ======
 * Citizenship: Kyrgyzstan
 * Data of birth: 9th of February, 1992
-* Address: Nishiterao 2-26-5 Kanagawa ku, Yokohama.
 * Email: alisher.abdulkhaev@gmail.com
 * Webpage: alisher-ai.github.io.
 * Twitter: @alisher_ai
@@ -24,7 +23,7 @@ Education
 ======
 * 2020 - 2023 (expected): Ph.D in Graduate School of System and Information Engineer, Department of Computer Science, The University of Tsukuba
 * 2012 - 2015: M.S. in Electrical and Electronics Engineering, Gaziantep University, 2015 (GPA: 3.64/4.00)
-  * Master Thesis: **New Approach for Video Watermarking:** genetic algorithm based video watermarking method has been proposed in which the watermark is embedded in an appropriate (optimized by the genetic algorithm) layer of an image. The performance of the proposed method is evaluated over the NCC and PSNR metrics.
+  * **Master Thesis**: _New Approach for Video Watermarking_ - genetic algorithm based video watermarking method has been proposed in which the watermark is embedded in an appropriate (optimized by the genetic algorithm) layer of an image. The performance of the proposed method is evaluated over the NCC and PSNR metrics.
 * 2008 - 2012: B.S. in Electrical and Electronics Engineering, Gaziantep University, 2012 (GPA: 2.45/4.00)
 * 2003 - 2008: International High School, 2008 (GPA: 5.00/5.00)
 
@@ -56,32 +55,39 @@ Work experience
   * Duties: training deep networks for image retrieval
 
   
-
-<table border="0">
-<tr>
-  <td><b style="font-size:30px">Title</b></td>
-  <td><b style="font-size:30px">Title 2</b></td>
-</tr>
-<tr>
-  <td>* Software
-  * Docker
-  * LATEX
-  * mongodb
-  * Python
-  * MATLAB</td>
-  <td>* Software
-  * Docker
-  * LATEX
-  * mongodb
-  * Python
-  * MATLAB</td>
-</tr>
-</table>
   
 Skills
 ======
 
-  
+<table border="0">
+<tr>
+  <td><b style="font-size:30px">Software</b></td>
+  <td><b style="font-size:30px">Machine Learning</b></td>
+</tr>
+<tr>
+  <td>
+    * Software
+    * Docker
+    * LATEX
+    * mongodb
+    * Python
+    * MATLAB</td>
+  <td>
+    * OpenCV
+    * scikit-learn
+    * PyTorch
+    * Keras
+    * TensorFlow
+    * object detection
+    * image retrieval
+    * metric learning
+    * semi-supervised learning
+    * self-supervised learning
+    * facial recognition (face detection, face matching, landmark detection)
+</tr>
+</table>
+
+
 * Machine Learning / Deep Learning
   * OpenCV
   * scikit-learn
