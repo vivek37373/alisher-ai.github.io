@@ -13,14 +13,14 @@ redirect_from:
 
 <!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
 
-<embed src="https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf" type="application/pdf" width="1000px" height="2000px" />
+<embed src="https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf" type="application/pdf"/>
 
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in GitHub, Gaziantep University, 2012
+* M.S. in Jekyll, Gaziantep University, 2014
+* Ph.D in Computer Science, The University of Tsukuba, 2023 (expected)
 
 Work experience
 ======
