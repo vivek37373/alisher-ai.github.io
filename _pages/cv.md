@@ -55,8 +55,8 @@ Work experience
   * Duties: training deep networks for image retrieval
 
   
-| Machine Learning         | Software | Languages |
---
+| Machine Learning         | Software | Languages               |
+| ------------------------ | ---------| ----------------------- |
 | OpenCV                   | Docker   | Uzbek: native speaker   |
 | scikit-learn             | LATEX    | Kyrgyz: native speaker  |
 | PyTorch                  | mongodb  | Turkish: native speaker |
