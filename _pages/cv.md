@@ -54,6 +54,9 @@ Work experience
   * Computer Vision team (team leader: Bjorn Stenger, supervisors: Ali Cevahir & Jiu Xu)
   * Duties: training deep networks for image retrieval
 
+
+Skills
+======
   
 | Machine Learning         | Software | Languages               |
 | ------------------------ | ---------| ----------------------- |
@@ -70,37 +73,8 @@ Work experience
 
 
 
-Skills
-======
 
 
-
-
-* Machine Learning / Deep Learning
-  * OpenCV
-  * scikit-learn
-  * PyTorch
-  * Keras
-  * TensorFlow
-  * object detection
-  * image retrieval
-  * metric learning
-  * semi-supervised learning
-  * self-supervised learning
-  * facial recognition (face detection, face matching, landmark detection)
-* Languages
-  * Uzbek: native speaker
-  * Kyrgyz: native speaker
-  * Turkish: native speaker
-  * English: advanced
-  * Russion: intermediate
-  * Japanese: beginner
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks and presentations
 ======
@@ -117,7 +91,7 @@ Projects
   
 Certificates
 ======
-* Machine Learning by Stanford University on Coursera (grade: 93.0%)
+* Machine Learning by Stanford University on Coursera (grade: 93%)
 * NLP with Classification and Vector Spaces on Coursera (grade: 98%)
 
 
@@ -143,4 +117,9 @@ Awards
 * 2002: 1st Place in Provincial Chess Competition, _Osh, Kyrgyzstan_
 
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
