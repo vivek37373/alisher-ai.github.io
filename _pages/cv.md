@@ -65,19 +65,8 @@ Skills
   <td><b style="font-size:30px">Machine Learning</b></td>
 </tr>
 <tr>
-  <td> * Docker<br\> * LATEX <br\> * mongodb <br\> * Python <br\> MATLAB</td>
-
-  <td> * OpenCV
-    * scikit-learn
-    * PyTorch
-    * Keras
-    * TensorFlow
-    * object detection
-    * image retrieval
-    * metric learning
-    * semi-supervised learning
-    * self-supervised learning
-    * facial recognition (face detection, face matching, landmark detection)
+  <td>Docker<br\>* LATEX<br\>* mongodb<br\>* Python<br\>MATLAB</td>
+  <td>OpenCV<br\>scikit-learn<br\>PyTorch<br\>Keras<br\>TensorFlow<br\>object detection<br\>metric learning<br\>semi-supervised learning<br\>facial recognition
 </tr>
 </table>
 
