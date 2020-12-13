@@ -30,6 +30,18 @@ Education
 
 Work experience
 ======
+
+| Year(s)     | Title                           | Company/Organization       | Department/team | Duties|
+| ----------- | ------------------------------- | -------------------------- | --------------- | ----- |
+| 2020 -      | Visiting Scholar                | RIKEN (Decision Making Lab)|                 |    |
+| 2020 -      | Board Director & Community Lead | Machine Learning Tokyo     |                 |    |
+| 2019 -      | Teaching Fellow                 | Turkish: native speaker    |                 |    |
+| 2018 -      | Computer Vision Engineer        | English: advanced          |                 |    |
+| 2018 - 2020 | Core Team Member                | Machine Learning Tokyo     |                 |    |
+| 2017 - 2018 | Machine Learning Engineer       | PKSHA Technology           |                 |    |
+| 2016 - 2017 | Intern                          | Rakuten (RIT)              |                 |    |
+
+
 * 2020 - : Visiting Scholar @ Social Value Decision Making Lab, RIKEN
   
 * 2020 - : Board Director and Community Lead @ Machine Learning Tokyo
