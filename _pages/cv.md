@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Curriculum Vitae [pdf](https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf)"
+title: "[Curriculum Vitae in pdf format](https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -58,16 +58,30 @@ Work experience
 
   
 
-  
-  
-Skills
-======
-* Software
+<table border="0">
+<tr>
+  <td><b style="font-size:30px">Title</b></td>
+  <td><b style="font-size:30px">Title 2</b></td>
+</tr>
+<tr>
+  <td>* Software
   * Docker
   * LATEX
   * mongodb
   * Python
-  * MATLAB
+  * MATLAB</td>
+  <td>* Software
+  * Docker
+  * LATEX
+  * mongodb
+  * Python
+  * MATLAB</td>
+</tr>
+</table>
+  
+Skills
+======
+
   
 * Machine Learning / Deep Learning
   * OpenCV
