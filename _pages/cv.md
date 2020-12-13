@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Alisher Abdulkhaev"
+title: "Curriculum Vitae [PDF](https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-[Alisher Abdulkhaev's CV [PDF]](https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf)
 
 <!-- <embed src="https://alisher-ai.github.io/files/CV_Alisher_Abdulkhaev.pdf" type="application/pdf"/> -->
 
