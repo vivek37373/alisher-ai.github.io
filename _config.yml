@@ -20,7 +20,7 @@ description              : &description
                                 
                                 Board Director @ MLT
                                 
-                                Ph.D. student @ University of Tsukuba
+                                Ph.D. student @ Univ. of Tsukuba
                                 
 url                      : https://alisher-ai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -99,7 +99,7 @@ author:
 
                     Board Director @ MLT
 
-                    Ph.D. student @ University of Tsukuba
+                    Ph.D. student @ Univ. of Tsukuba
                     
   location         : "Tokyo, Japan"
   employer         :
