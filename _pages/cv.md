@@ -15,9 +15,9 @@ Personal Data
 ======
 * Citizenship: Kyrgyzstan
 * Data of birth: 9th of February, 1992
-* Email: alisher.abdulkhaev@gmail.com
-* Webpage: alisher-ai.github.io.
-* Twitter: @alisher_ai
+* Email: [alisher.abdulkhaev@gmail.com](alisher.abdulkhaev@gmail.com)
+* Webpage: [alisher-ai.github.io](https://alisher-ai.github.io)
+* Twitter: [@alisher_ai](https://twitter.com/alisher_ai)
 
 Education
 ======
