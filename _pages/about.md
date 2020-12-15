@@ -8,4 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-My name is Alisher Abdulkhaev.
+
+
+I’m Alisher Abdulkhaev, a machine learning engineer mostly working on computer vision tasks. I have graduated from electrical and electronics engineering department in my bachelor degree and masters degree. Since then I am working at the industry as a machine learning engineer. 
+
+My industrial journey started at [Rakuten, RIT](https://rit.rakuten.co.jp), as an intern, where I worked on image retrieval project. Then started at [PKSHA Technology](https://pkshatech.com/ja/) as both researcher and machine learning engineer where I have implemented the face detection algorithm. The implemented algorithm was deployed on production and I hope it is still on production :)
+
+Currently I am working for [Browzzin, an AI powered fashion app](https://browzzin.com). At Browzzin, I implement various computer vision algorithms to make our [image recognition engine](https://browzzin.ai) more powerful and robust.
+
+Apart from my professional life, I am also dealing with community driven NPO — [Machine Learning Tokyo](https://www.meetup.com/Machine-Learning-Tokyo/). I am a board member and community lead at MLT. We are organizing and hosting hundreds of talks, study sessions and discussions. MLT is a community of around 8,000 machine learning engineers and researchers from all over the world. There are multiple very cool projects initiated my MLT. For the further details you could visit [MLT website](https://mltokyo.ai) and [MLT Blog](https://machinelearningtokyo.com).
+
+This year (2020), I started my Ph.D. journey at [CVLAB, University of Tsukuba](https://en.home.cvlab.cs.tsukuba.ac.jp/home) under the supervision of [Prof. Fukui](http://www.cvlab.cs.tsukuba.ac.jp/~kfukui/english/indexE.html).
+
+My research interests focus on developing a data efficient deep learning models. I do care about data efficiency because I believe we need to push the currrent deep learning algorithms towards less data dependency. I think this is important for both robustness (introducing general inductive biases) and applicability in different domains. 
+
+Thank you very much for taking time to read about me and please feel free to reach me out with anything you have in mind!
+
+
+
+
