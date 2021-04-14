@@ -33,7 +33,7 @@ Work experience
 
 | Year(s)     | Title                           | Company/Organization              | Leader          | Duties                                     |
 | ----------- | ------------------------------- | --------------------------        | --------------- | -----                                      |
-| 2020 -      | Visiting Scholar                | RIKEN, Decision Making Lab        | Rei Akaishi     | research                                   |
+#| 2020 -      | Visiting Scholar                | RIKEN, Decision Making Lab        | Rei Akaishi     | research                                   |
 | 2020 -      | Board Director & Community Lead | Machine Learning Tokyo, board     | Suzana Ilic     | planning the events, leading the community |
 | 2019 -      | Teaching Fellow                 | Tokyo Data Science School         | Michal Fabinger | giving lectures                            |
 | 2018 -      | Computer Vision Engineer        | Browzzin, AI team                 | Ozgur Yilmaz    | training DL models, implement endpoints    |
