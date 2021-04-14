@@ -40,10 +40,6 @@ Work experience
 | 2017 - 2018 | Machine Learning Engineer       | PKSHA Technology, CV team         | Yotaro Watanabe | training the SOTA face recognition models  |
 | 2016 - 2017 | Research Intern                 | Rakuten, RIT (R&D)                | Bjorn Stenger   | training deep networks for image retrieval |
 
-
-<!--- | 2020 -      | Visiting Scholar                | RIKEN, Decision Making Lab        | Rei Akaishi     | research                                   | --->
-
-
 Skills
 ======
   
