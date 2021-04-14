@@ -8,7 +8,6 @@ venue: 'Thesis'
 paperurl: 'https://github.com/alisher-ai/alisher-ai.github.io/blob/master/files/Masters-thesis--A-new-approach-for-video-watermarking.pdf'
 citation: 'A. Abdulkhaev (2016). &quot;A new approach for video watermarking&quot;'
 ---
-
 Digital Watermarking
 
 [Download the master's thesis here](https://github.com/alisher-ai/alisher-ai.github.io/blob/master/files/Masters-thesis--A-new-approach-for-video-watermarking.pdf)
