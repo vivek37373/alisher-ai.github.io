@@ -43,17 +43,18 @@ Work experience
 Skills
 ======
   
-| Machine Learning         | Software | Languages               |
-| ------------------------ | ---------| ----------------------- |
-| OpenCV                   | Docker   | Uzbek: native speaker   |
-| scikit-learn             | LATEX    | Kyrgyz: native speaker  |
-| PyTorch                  | mongodb  | Turkish: native speaker |
-| Keras                    | Python   | English: advanced       |
-| TensorFlow               | MATLAB   | Russian: intermediate   |
-| object detection         |          | Japanese: beginner      |
-| metric learning          |          |                         |
-| semi-supervised learning |          |                         |
-| facial recognition       |          |                         |
+| Machine Learning         | Software   | Languages               |
+| ------------------------ | -----------| ----------------------- |
+| OpenCV                   | Docker     | Uzbek: native speaker   |
+| Scikit-learn             | LATEX      | Kyrgyz: native speaker  |
+| PyTorch                  | mongodb    | Turkish: native speaker |
+| Keras                    | Python     | English: advanced       |
+| TensorFlow               | MATLAB     | Russian: intermediate   |
+| Object detection         | RESTful API| Japanese: beginner      |
+| Metric learning          |            |                         |
+| Semi-supervised learning |            |                         |
+| Facial recognition       |            |                         |
+| Subspace methods         |            |                         |
   
   
 Certificates
